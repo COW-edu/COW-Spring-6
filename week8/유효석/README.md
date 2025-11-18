@@ -26,3 +26,4 @@ id가 1인 user를 삭제함.
 
 - DELETE 결과
 ![스크린샷](https://github.com/user-attachments/assets/0e1a5483-0180-4926-b293-f57a440a0755)
+
