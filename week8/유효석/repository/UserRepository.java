@@ -11,7 +11,7 @@ import java.util.List;
 @RequiredArgsConstructor
 public class UserRepository {
 
-    private final EntityManager em;   // ⭐ JPA 핵심 객체 (DB 대신 JPA가 조작)
+    private final EntityManager em;
 
     // 저장
     public void save(User user) {
