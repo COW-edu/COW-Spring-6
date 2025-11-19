@@ -32,4 +32,5 @@ Mysql: https://dev.mysql.com/downloads/mysql/
 
 ![img_1.png](img_1.png)
 4. 의존성(Dependencies): Spring Web, Spring Boot DevTools, Lombok, Spring Data JPA 선택
+
 5. Create 눌러서 선택
