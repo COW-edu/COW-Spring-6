@@ -1,8 +1,8 @@
-package com.example.demo.service;
+package com.example.service;
 
-import com.example.demo.entity.User;
-import com.example.demo.dto.UserDto;
-import com.example.demo.repository.UserRepository;
+import com.example.entity.User;
+import com.example.dto.UserDto;
+import com.example.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

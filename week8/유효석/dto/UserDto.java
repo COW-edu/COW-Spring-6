@@ -1,10 +1,10 @@
-package com.example.demo.dto;
+package com.example.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import com.example.demo.entity.User;
+import com.example.entity.User;
 
 @Getter
 @Builder
